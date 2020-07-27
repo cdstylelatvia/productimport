@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <manufacturer><![CDATA[L'OCCITANE]]></manufacturer>
+    <name_of_store><![CDATA[L'OCCITANE]]></name_of_store>
+    <sku><![CDATA[29HD250A15]]></sku>
+    <name><![CDATA[Mandeļu dušas eļļa]]></name>
+    <url_to_product><![CDATA[https://lv.loccitane.com/mandeles-dusas-ella,119,3,58591,545567.htm]]></url_to_product>
+    <categories><![CDATA[Pēc līnijām]]></categories>
+    <short_description><![CDATA[Saudzīgi attīra, mitrina un pabaro ādu, lai tā būtu zīdaini maiga visas dienas garumā. ]]></short_description>
+    <color>Yellow</color>
+    <price>18.50</price>
+    <special_price>18.50</special_price>
+    <special_price_from_date>08.01.20</special_price_from_date>
+    <special_price_to_date>08.01.20</special_price_to_date>
+    <base_image><![CDATA[https://img.loccitane.com/ocms/img/P.aspx?l=lv-LV&s=500&e=png&name=mandelu-dusas-ella-loccitane&id=29HD250A15&v=2]]></base_image>
+    <small_image><![CDATA[https://img.loccitane.com/ocms/img/P.aspx?l=lv-LV&s=500&e=png&name=mandelu-dusas-ella-loccitane&id=29HD250A15&v=2]]></small_image>
+    <thumbnail_image><![CDATA[https://img.loccitane.com/ocms/img/P.aspx?l=lv-LV&s=500&e=png&name=mandelu-dusas-ella-loccitane&id=29HD250A15&v=2]]></thumbnail_image>
+  </row>
+</root>
