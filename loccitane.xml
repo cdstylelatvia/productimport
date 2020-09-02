@@ -1,21 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
+  <?xml version="1.0" encoding="UTF-8"?>
+<root>
   <row>
-    <manufacturer><![CDATA[L'OCCITANE]]></manufacturer>
+<manufacturer><![CDATA[L'OCCITANE]]></manufacturer>
     <name_of_store><![CDATA[L'OCCITANE]]></name_of_store>
-    <sku><![CDATA[29HD250A15]]></sku>
-    <name><![CDATA[Mandeļu dušas eļļa]]></name>
-    <url_to_product><![CDATA[https://lv.loccitane.com/mandeles-dusas-ella,119,3,58591,545567.htm]]></url_to_product>
+    <sku><![CDATA[29HS100A18]]></sku>
+    <name><![CDATA[Mandeļu ķermeņa eļļa]]></name>
+    <url_to_product><![CDATA[https://lv.loccitane.com/mandeles-ella,119,3,58591,576320.htm#s=77995]]></url_to_product>
     <categories><![CDATA[Default Category/Beauty & Health products/Bath & Body/Bath & Shower gel]]></categories>
-    <short_description><![CDATA[Saudzīgi attīra, mitrina un pabaro ādu, lai tā būtu zīdaini maiga visas dienas garumā.]]></short_description>
+    <short_description><![CDATA[Bagatīgi mitrina un pabaro ādu, lai tā būtu zīdaini maiga visas dienas garumā.]]></short_description>
     <color>Yellow</color>
-    <price>18.50</price>
-    <special_price>18.50</special_price>
+    <price>36.00</price>
+    <special_price>36.00</special_price>
     <special_price_from_date>08.01.20</special_price_from_date>
-    <special_price_to_date>08.01.20</special_price_to_date>
-    <base_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_6454c5d75d2d424aae46ecdf0b993c1c.png]]></base_image>
-    <small_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_6454c5d75d2d424aae46ecdf0b993c1c.png]]></small_image>
-    <thumbnail_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_6454c5d75d2d424aae46ecdf0b993c1c.png]]></thumbnail_image>
+    <special_price_to_date>08.01.22</special_price_to_date>
+    <base_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_9e0f0d5fac88448f87c7847983f8d675.jpg]]></base_image>
+    <small_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_9e0f0d5fac88448f87c7847983f8d675.jpg]]></small_image>
+    <thumbnail_image><![ https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_9e0f0d5fac88448f87c7847983f8d675.jpg]]></thumbnail_image>
   </row>
   <row>
     <manufacturer><![CDATA[L'OCCITANE]]></manufacturer>
@@ -33,5 +35,5 @@
     <base_image><![CDATA[X]]></base_image>
     <small_image><![CDATA[X]]></small_image>
     <thumbnail_image><![CDATA[X]]></thumbnail_image>
-  </row>
+ </row>
 </root>
