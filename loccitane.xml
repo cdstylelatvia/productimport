@@ -17,4 +17,21 @@
     <small_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_6454c5d75d2d424aae46ecdf0b993c1c.png]]></small_image>
     <thumbnail_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_6454c5d75d2d424aae46ecdf0b993c1c.png]]></thumbnail_image>
   </row>
+  <row>
+    <manufacturer><![CDATA[L'OCCITANE]]></manufacturer>
+    <name_of_store><![CDATA[L'OCCITANE]]></name_of_store>
+    <sku><![CDATA[X]]></sku>
+    <name><![CDATA[X]]></name>
+    <url_to_product><![CDATA[X]]></url_to_product>
+    <categories><![CDATA[Default Category/Beauty & Health products/Bath & Body/Bath & Shower gel]]></categories>
+    <short_description><![CDATA[X]]></short_description>
+    <color>Yellow</color>
+    <price>X</price>
+    <special_price>X</special_price>
+    <special_price_from_date>X</special_price_from_date>
+    <special_price_to_date>X</special_price_to_date>
+    <base_image><![CDATA[X]]></base_image>
+    <small_image><![CDATA[X]]></small_image>
+    <thumbnail_image><![CDATA[X]]></thumbnail_image>
+  </row>
 </root>
