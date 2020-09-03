@@ -1,49 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
   <row>
+    <manufacturer><![CDATA[L'OCCITANE]]></manufacturer>
+    <name_of_store><![CDATA[L'OCCITANE]]></name_of_store>
+    <sku><![CDATA[29HD250A15]]></sku>
     <name><![CDATA[Mandeļu dušas eļļa]]></name>
     <url_to_product><![CDATA[https://lv.loccitane.com/mandeles-dusas-ella,119,3,58591,545567.htm]]></url_to_product>
-    <categories><![CDATA[Pēc līnijām]]></categories>
+    <categories><![CDATA[Default Category/Beauty & Health products/Bath & Body/Bath & Shower gel]]></categories>
     <short_description><![CDATA[Saudzīgi attīra, mitrina un pabaro ādu, lai tā būtu zīdaini maiga visas dienas garumā. ]]></short_description>
-    <short_description><![CDATA[Saudzīgi attīra, mitrina un pabaro ādu, lai tā būtu zīdaini maiga visas dienas garumā.]]></short_description>
     <color>Yellow</color>
     <price>18.50</price>
     <special_price>18.50</special_price>
     <special_price_from_date>08.01.20</special_price_from_date>
     <special_price_to_date>08.01.20</special_price_to_date>
-    <base_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_6454c5d75d2d424aae46ecdf0b993c1c.png]]></base_image>
-    <small_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_6454c5d75d2d424aae46ecdf0b993c1c.png]]></small_image>
-    <thumbnail_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_6454c5d75d2d424aae46ecdf0b993c1c.png]]></thumbnail_image>
+  </row>
+   <row>
+    <manufacturer><![CDATA[L'OCCITANE]]></manufacturer>
+    <name_of_store><![CDATA[L'OCCITANE]]></name_of_store>
+    <sku><![CDATA[27OR030I19]]></sku>
+    <name><![CDATA[RESET serums sejai]]></name>
+    <url_to_product><![CDATA[https://lv.loccitane.com/reset-nakts-serums,119,3,58468,1259839.htm]]></url_to_product>
+    <categories><![CDATA[Default Category/Beauty & Health products/Bath & Body/Bath & Shower gel]]></categories>
+    <short_description><![CDATA[Bagātīgi mitrina sejas ādu un atjauno to jau vienas nakts laikā.]]></short_description>
+    <color>Yellow</color>
+    <price>55.00</price>
+    <special_price>55.00</special_price>
+    <special_price_from_date>08.01.20</special_price_from_date>
+    <special_price_to_date>08.01.20</special_price_to_date>
+    <base_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_c7f3c19fb2384fe0851e476e1cd4aaf8.jpg]]></base_image>
+    <small_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_c7f3c19fb2384fe0851e476e1cd4aaf8.jpg]]></small_image>
+    <thumbnail_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_c7f3c19fb2384fe0851e476e1cd4aaf8.jpg]]></thumbnail_image>
   </row>
   <row>
-	    <manufacturer><![CDATA[L'OCCITANE]]></manufacturer>
-	    <name_of_store><![CDATA[L'OCCITANE]]></name_of_store>
-	    <sku><![CDATA[27OR030I19]]></sku>
-	    <name><![CDATA[RESET serums sejai]]></name>
-	    <url_to_product><![CDATA[https://lv.loccitane.com/reset-nakts-serums,119,3,58468,1259839.htm#s=58731]]></url_to_product>
-	    <categories><![CDATA[Default Category/Beauty & Health products/Bath & Body/Bath & Shower gel]]></categories>
-	    <short_description><![CDATA[Bagātīgi mitrina sejas ādu un atjauno to jau vienas nakts laikā.]]></short_description>
-	    <color>Yellow</color>
-	    <price>55.00</price>
-	    <special_price>55.00</special_price>
-	    <special_price_from_date>08.01.20</special_price_from_date>
-	    <special_price_to_date>08.01.22</special_price_to_date>
-	    <base_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_c7f3c19fb2384fe0851e476e1cd4aaf8.jpg]]></base_image>
-            <small_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_c7f3c19fb2384fe0851e476e1cd4aaf8.jpg]]></small_image>
-            <thumbnail_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_c7f3c19fb2384fe0851e476e1cd4aaf8.jpg]]></thumbnail_image>
-    </row>
-	<row>
-		paste 3rd product data
-        </row>
-	<row>
-		paste 4rd product data
-        </row>
-	<row>
-		paste 5rd product data
-        </row>
-	<row>
-		paste 6rd product data
-        </row>
+		paste 3rd product dat
+  </row>
+  <row>
+		paste 3rd product dat
+  </row>
+  <row>
+		paste 3rd product dat
+  </row>
+  <row>
+		paste 3rd product dat
+  </row>
+  <row>
+		paste 3rd product dat
+  </row>
+  <row>
+		paste 3rd product dat
+  </row>
+  <row>
+		paste 3rd product dat
+  </row>
 	
 	
 	
