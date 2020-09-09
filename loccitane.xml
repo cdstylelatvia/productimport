@@ -237,7 +237,21 @@
 	    <thumbnail_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_b4cdef53ce4f4bbf9eeb56bc0cfe9aba.png]]></thumbnail_image>
 	  </row>
  <row>
-		paste 3rd product dat
+		<manufacturer><![CDATA[L'OCCITANE]]></manufacturer>
+		name_of_store><![CDATA[L'OCCITANE]]></name_of_store>
+	    <sku><![CDATA[01CP200K17]]></sku>
+	    <name><![CDATA[Citrusa verbenas dezodorants]]></name>
+	    <url_to_product><![CDATA[https://lv.loccitane.com/dezodorants-verbena,119,3,58655,545773.htm#s=58754]]></url_to_product>
+	    <categories><![CDATA[Default Category/Beauty & Health products/Bath & Body/Bath & Shower gel]]></categories>
+	    <short_description><![CDATA[Dezodorants aizsargās no nepatīkamā aromata, neaisprostojot poras. Nesatur alumīnija sāļus.]]></short_description>
+	    <color>Yellow</color>
+	    <price>16.50</price>
+	    <special_price>16.50</special_price>
+	    <special_price_from_date>X08.01.2020</special_price_from_date>
+	    <special_price_to_date>01.10.2022</special_price_to_date>
+	    <base_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_fcfa71d1abc547808d530d5712aa6e05.png]]></base_image>
+	    <small_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_fcfa71d1abc547808d530d5712aa6e05.png]]></small_image>
+	    <thumbnail_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_fcfa71d1abc547808d530d5712aa6e05.png]]></thumbnail_image>
 	  </row>
  <row>
 		paste 3rd product dat
