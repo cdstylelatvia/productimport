@@ -152,7 +152,21 @@
 	    <thumbnail_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_ca87a87c2ff049348d72e4675ebe59dc.png]]></thumbnail_image>
   </row>
   <row>
-		paste 3rd product dat
+		 <manufacturer><![CDATA[L'OCCITANE]]></manufacturer>
+		name_of_store><![CDATA[L'OCCITANE]]></name_of_store>
+	    <sku><![CDATA[11EMP075I19]]></sku>
+	    <name><![CDATA[Attīroša sejas maska]]></name>
+	    <url_to_product><![CDATA[https://lv.loccitane.com/attirosa-maska-sejai,119,3,95726,1367380.htm#s=58734]]></url_to_product>
+	    <categories><![CDATA[Default Category/Beauty & Health products/Bath & Body/Bath & Shower gel]]></categories>
+	    <short_description><![CDATA[Attīrošā sejas maska ar timiānu un šī sviestu attīrīs ādu no netīrumiem, liekā sebuma.]]></short_description>
+	    <color>Yellow</color>
+	    <price>28.00</price>
+	    <special_price>28.00</special_price>
+	    <special_price_from_date>X08.01.2020</special_price_from_date>
+	    <special_price_to_date>01.10.2022</special_price_to_date>
+	    <base_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_c1f5f9f6c4034d5d8d676d8681dae468.png]]></base_image>
+	    <small_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_c1f5f9f6c4034d5d8d676d8681dae468.png]]></small_image>
+	    <thumbnail_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_c1f5f9f6c4034d5d8d676d8681dae468.png]]></thumbnail_image>
    </row>
    <row>
 		paste 3rd product dat
