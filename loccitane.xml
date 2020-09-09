@@ -12,7 +12,7 @@
     <price>18.50</price>
     <special_price>18.50</special_price>
     <special_price_from_date>08.01.20</special_price_from_date>
-    <special_price_to_date>08.01.20</special_price_to_date>
+    <special_price_to_date>08.01.22</special_price_to_date>
   </row>
    <row>
     <manufacturer><![CDATA[L'OCCITANE]]></manufacturer>
@@ -26,12 +26,13 @@
     <price>55.00</price>
     <special_price>55.00</special_price>
     <special_price_from_date>08.01.20</special_price_from_date>
-    <special_price_to_date>08.01.20</special_price_to_date>
+    <special_price_to_date>08.01.22</special_price_to_date>
     <base_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_c7f3c19fb2384fe0851e476e1cd4aaf8.jpg]]></base_image>
     <small_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_c7f3c19fb2384fe0851e476e1cd4aaf8.jpg]]></small_image>
     <thumbnail_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_c7f3c19fb2384fe0851e476e1cd4aaf8.jpg]]></thumbnail_image>
   </row>
   <row>
+	  <manufacturer><![CDATA[L'OCCITANE]]></manufacturer>
 <name_of_store><![CDATA[L'OCCITANE]]></name_of_store>
 	    <sku><![CDATA[29HS100A18]]></sku>
 	    <name><![CDATA[Mandeļu ķermeņa eļļa]]></name>
@@ -40,23 +41,46 @@
 	    <short_description><![CDATA[Bagātīgi mitrina un baro ādu, padara to elastīgu un nostiprina.]]></short_description>
 	    <color>Yellow</color>
 	    <price>36.00</price>
-	    <special_price>30.00</special_price>
+	    <special_price>36.00</special_price>
 	    <special_price_from_date>X08.01.2020</special_price_from_date>
-	    <special_price_to_date>01.10.2020</special_price_to_date>
+	    <special_price_to_date>01.10.2022</special_price_to_date>
 	    <base_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_9e0f0d5fac88448f87c7847983f8d675.jpg]]></base_image>
 	    <small_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_9e0f0d5fac88448f87c7847983f8d675.jpg]]></small_image>
 	    <thumbnail_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_9e0f0d5fac88448f87c7847983f8d675.jpg]]></thumbnail_image>
-
-
-
-
-
   </row>
   <row>
-		paste 3rd product dat
+	  <manufacturer><![CDATA[L'OCCITANE]]></manufacturer>
+		name_of_store><![CDATA[L'OCCITANE]]></name_of_store>
+	    <sku><![CDATA[01MA150K18]]></sku>
+	    <name><![CDATA[Šī sviesta roku krēms]]></name>
+	    <url_to_product><![CDATA[https://lv.loccitane.com/si-sviesta-roku-krems,119,3,58647,545711.htm#s=58771]]></url_to_product>
+	    <categories><![CDATA[Default Category/Beauty & Health products/Bath & Body/Bath & Shower gel]]></categories>
+	    <short_description><![CDATA[Bagātīgi baro un dziedē pat vissausāko roku ādu.]]></short_description>
+	    <color>Yellow</color>
+	    <price>23.00</price>
+	    <special_price>23..00</special_price>
+	    <special_price_from_date>X08.01.2020</special_price_from_date>
+	    <special_price_to_date>01.10.2022</special_price_to_date>
+	    <base_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_e5fef17e628f4e289a612337d736b6b4.jpg]]></base_image>
+	    <small_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_e5fef17e628f4e289a612337d736b6b4.jpg]]></small_image>
+	    <thumbnail_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_e5fef17e628f4e289a612337d736b6b4.jpg]]></thumbnail_image>
   </row>
   <row>
-		paste 3rd product dat
+	  <manufacturer><![CDATA[L'OCCITANE]]></manufacturer>
+		name_of_store><![CDATA[L'OCCITANE]]></name_of_store>
+	    <sku><![CDATA[29LC200A14]]></sku>
+	    <name><![CDATA[Mandeļu piena koncentrāts]]></name>
+	    <url_to_product><![CDATA[https://lv.loccitane.com/mandeles-piena-koncentrats,119,3,58591,1180975.htm#s=58758]]></url_to_product>
+	    <categories><![CDATA[Default Category/Beauty & Health products/Bath & Body/Bath & Shower gel]]></categories>
+	    <short_description><![CDATA[Bagātīgi mitrina un baro ādu, padara to elastīgu un nostiprina.]]></short_description>
+	    <color>Yellow</color>
+	    <price>45.00</price>
+	    <special_price>45.00</special_price>
+	    <special_price_from_date>X08.01.2020</special_price_from_date>
+	    <special_price_to_date>01.10.2022</special_price_to_date>
+	    <base_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_905bfb2ed3a14594bbddbbc53192f733.jpg]]></base_image>
+	    <small_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_905bfb2ed3a14594bbddbbc53192f733.jpg]]></small_image>
+	    <thumbnail_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_905bfb2ed3a14594bbddbbc53192f733.jpg]]></thumbnail_image>
   </row>
   <row>
 		paste 3rd product dat
