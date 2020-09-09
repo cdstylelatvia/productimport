@@ -118,7 +118,21 @@
 	    <thumbnail_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_2f98c6efb0044a43ae9b8875aef641c7.png]]></thumbnail_image>
   </row>
   <row>
-		paste 3rd product dat
+		 <manufacturer><![CDATA[L'OCCITANE]]></manufacturer>
+		name_of_store><![CDATA[L'OCCITANE]]></name_of_store>
+	    <sku><![CDATA[11CD050A18]]></sku>
+	    <name><![CDATA[Aqua Reotier sejas krēms]]></name>
+	    <url_to_product><![CDATA[https://lv.loccitane.com/aqua-reotier-sejas-krems,119,3,92227,1220289.htm#s=92232]]></url_to_product>
+	    <categories><![CDATA[Default Category/Beauty & Health products/Bath & Body/Bath & Shower gel]]></categories>
+	    <short_description><![CDATA[Bagātīgi mitrina dehidrētu sejas ādu.]]></short_description>
+	    <color>Yellow</color>
+	    <price>28.00</price>
+	    <special_price>28.00</special_price>
+	    <special_price_from_date>X08.01.2020</special_price_from_date>
+	    <special_price_to_date>01.10.2022</special_price_to_date>
+	    <base_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_2063552dde294ecca024ee1de9a00802.png]]></base_image>
+	    <small_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_2063552dde294ecca024ee1de9a00802.png]]></small_image>
+	    <thumbnail_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_2063552dde294ecca024ee1de9a00802.png]]></thumbnail_image>
   </row>
   <row>
 		paste 3rd product dat
