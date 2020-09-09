@@ -135,9 +135,34 @@
 	    <thumbnail_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_2063552dde294ecca024ee1de9a00802.png]]></thumbnail_image>
   </row>
   <row>
-		paste 3rd product dat
+		 <manufacturer><![CDATA[L'OCCITANE]]></manufacturer>
+		name_of_store><![CDATA[L'OCCITANE]]></name_of_store>
+	    <sku><![CDATA[20DO075BX20]]></sku>
+	    <name><![CDATA[Eav de Bavx dezodorants]]></name>
+	    <url_to_product><![CDATA[https://lv.loccitane.com/baux-dezodorants,119,3,58674,545851.htm#s=58810]]></url_to_product>
+	    <categories><![CDATA[Default Category/Beauty & Health products/Bath & Body/Bath & Shower gel]]></categories>
+	    <short_description><![CDATA[Dezodorants efektīvi novērš nepatīkamu aromātu, neaizsprosto poras, nesatur alumīnija sāļus.]]></short_description>
+	    <color>Yellow</color>
+	    <price>16.50</price>
+	    <special_price>16.50</special_price>
+	    <special_price_from_date>X08.01.2020</special_price_from_date>
+	    <special_price_to_date>01.10.2022</special_price_to_date>
+	    <base_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_ca87a87c2ff049348d72e4675ebe59dc.png]]></base_image>
+	    <small_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_ca87a87c2ff049348d72e4675ebe59dc.png]]></small_image>
+	    <thumbnail_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_ca87a87c2ff049348d72e4675ebe59dc.png]]></thumbnail_image>
   </row>
-	
+  <row>
+		paste 3rd product dat
+   </row>
+   <row>
+		paste 3rd product dat
+ </row>
+ <row>
+		paste 3rd product dat
+	 </row>
+ <row>
+		paste 3rd product dat
+	</row>
 	
 	
 	
