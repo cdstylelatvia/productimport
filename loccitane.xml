@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
   <row>
-    <manufacturer><![CDATA[L'OCCITANE]]></manufacturer>
-    <name_of_store><![CDATA[L'OCCITANE]]></name_of_store>
-    <sku><![CDATA[29HD250A15]]></sku>
-    <name><![CDATA[Mandeļu dušas eļļa]]></name>
-    <url_to_product><![CDATA[https://lv.loccitane.com/mandeles-dusas-ella,119,3,58591,545567.htm]]></url_to_product>
-    <categories><![CDATA[Default Category/Beauty & Health products/Bath & Body/Bath & Shower gel]]></categories>
-    <short_description><![CDATA[Saudzīgi attīra, mitrina un pabaro ādu, lai tā būtu zīdaini maiga visas dienas garumā. ]]></short_description>
-    <color>Yellow</color>
-    <price>18.50</price>
-    <special_price>18.50</special_price>
-    <special_price_from_date>08.01.20</special_price_from_date>
-    <special_price_to_date>08.01.22</special_price_to_date>
-  </row>
-   <row>
-    <manufacturer><![CDATA[L'OCCITANE]]></manufacturer>
-    <name_of_store><![CDATA[L'OCCITANE]]></name_of_store>
-    <sku><![CDATA[27OR030I19]]></sku>
-    <name><![CDATA[RESET serums sejai]]></name>
-    <url_to_product><![CDATA[https://lv.loccitane.com/reset-nakts-serums,119,3,58468,1259839.htm]]></url_to_product>
-    <categories><![CDATA[Default Category/Beauty & Health products/Bath & Body/Bath & Shower gel]]></categories>
-    <short_description><![CDATA[Bagātīgi mitrina sejas ādu un atjauno to jau vienas nakts laikā.]]></short_description>
-    <color>Yellow</color>
-    <price>55.00</price>
-    <special_price>55.00</special_price>
-    <special_price_from_date>08.01.20</special_price_from_date>
-    <special_price_to_date>08.01.22</special_price_to_date>
-    <base_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_c7f3c19fb2384fe0851e476e1cd4aaf8.jpg]]></base_image>
-    <small_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_c7f3c19fb2384fe0851e476e1cd4aaf8.jpg]]></small_image>
-    <thumbnail_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_c7f3c19fb2384fe0851e476e1cd4aaf8.jpg]]></thumbnail_image>
+	    <manufacturer><![CDATA[L'OCCITANE]]></manufacturer>
+	    <name_of_store><![CDATA[L'OCCITANE]]></name_of_store>
+	    <sku><![CDATA[29HD250A15]]></sku>
+	    <name><![CDATA[Mandeļu dušas eļļa]]></name>
+	    <url_to_product><![CDATA[https://lv.loccitane.com/mandeles-dusas-ella,119,3,58591,545567.htm]]></url_to_product>
+	    <categories><![CDATA[Default Category/Beauty & Health products/Bath & Body/Bath & Shower gel]]></categories>
+	    <short_description><![CDATA[Saudzīgi attīra, mitrina un pabaro ādu, lai tā būtu zīdaini maiga visas dienas garumā. ]]></short_description>
+	    <color>Yellow</color>
+	    <price>18.50</price>
+	    <special_price>18.50</special_price>
+	    <special_price_from_date>08.01.20</special_price_from_date>
+	    <special_price_to_date>08.01.22</special_price_to_date>
   </row>
   <row>
-	  <manufacturer><![CDATA[L'OCCITANE]]></manufacturer>
-<name_of_store><![CDATA[L'OCCITANE]]></name_of_store>
+    	    <manufacturer><![CDATA[L'OCCITANE]]></manufacturer>
+    	    <name_of_store><![CDATA[L'OCCITANE]]></name_of_store>
+  	    <sku><![CDATA[27OR030I19]]></sku>
+   	    <name><![CDATA[RESET serums sejai]]></name>
+   	    <url_to_product><![CDATA[https://lv.loccitane.com/reset-nakts-serums,119,3,58468,1259839.htm]]></url_to_product>
+    	    <categories><![CDATA[Default Category/Beauty & Health products/Bath & Body/Bath & Shower gel]]></categories>
+   	    <short_description><![CDATA[Bagātīgi mitrina sejas ādu un atjauno to jau vienas nakts laikā.]]></short_description>
+  	    <color>Yellow</color>
+  	    <price>55.00</price>
+   	    <special_price>55.00</special_price>
+   	    <special_price_from_date>08.01.20</special_price_from_date>
+    	    <special_price_to_date>08.01.22</special_price_to_date>
+   	    <base_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_c7f3c19fb2384fe0851e476e1cd4aaf8.jpg]]></base_image>
+    	    <small_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_c7f3c19fb2384fe0851e476e1cd4aaf8.jpg]]></small_image>
+    	    <thumbnail_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_c7f3c19fb2384fe0851e476e1cd4aaf8.jpg]]></thumbnail_image>
+  </row>
+  <row>
+	    <manufacturer><![CDATA[L'OCCITANE]]></manufacturer>
+	    <name_of_store><![CDATA[L'OCCITANE]]></name_of_store>
 	    <sku><![CDATA[29HS100A18]]></sku>
 	    <name><![CDATA[Mandeļu ķermeņa eļļa]]></name>
 	    <url_to_product><![CDATA[https://lv.loccitane.com/mandeles-ella,119,3,58591,576320.htm#s=86245]]></url_to_product>
@@ -49,8 +49,8 @@
 	    <thumbnail_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_9e0f0d5fac88448f87c7847983f8d675.jpg]]></thumbnail_image>
   </row>
   <row>
-	  <manufacturer><![CDATA[L'OCCITANE]]></manufacturer>
-		<name_of_store><![CDATA[L'OCCITANE]]></name_of_store>
+	    <manufacturer><![CDATA[L'OCCITANE]]></manufacturer>
+	    <name_of_store><![CDATA[L'OCCITANE]]></name_of_store>
 	    <sku><![CDATA[01MA150K18]]></sku>
 	    <name><![CDATA[Šī sviesta roku krēms]]></name>
 	    <url_to_product><![CDATA[https://lv.loccitane.com/si-sviesta-roku-krems,119,3,58647,545711.htm#s=58771]]></url_to_product>
@@ -58,7 +58,7 @@
 	    <short_description><![CDATA[Bagātīgi baro un dziedē pat vissausāko roku ādu.]]></short_description>
 	    <color>Yellow</color>
 	    <price>23.00</price>
-	    <special_price>23..00</special_price>
+	    <special_price>23.00</special_price>
 	    <special_price_from_date>08.01.2020</special_price_from_date>
 	    <special_price_to_date>01.10.2022</special_price_to_date>
 	    <base_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_e5fef17e628f4e289a612337d736b6b4.jpg]]></base_image>
@@ -66,8 +66,8 @@
 	    <thumbnail_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_e5fef17e628f4e289a612337d736b6b4.jpg]]></thumbnail_image>
   </row>
   <row>
-	  <manufacturer><![CDATA[L'OCCITANE]]></manufacturer>
-		<name_of_store><![CDATA[L'OCCITANE]]></name_of_store>
+	    <manufacturer><![CDATA[L'OCCITANE]]></manufacturer>
+	    <name_of_store><![CDATA[L'OCCITANE]]></name_of_store>
 	    <sku><![CDATA[29LC200A14]]></sku>
 	    <name><![CDATA[Mandeļu piena koncentrāts]]></name>
 	    <url_to_product><![CDATA[https://lv.loccitane.com/mandeles-piena-koncentrats,119,3,58591,1180975.htm#s=58758]]></url_to_product>
@@ -83,8 +83,8 @@
 	    <thumbnail_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_905bfb2ed3a14594bbddbbc53192f733.jpg]]></thumbnail_image>
   </row>
   <row>
-		 <manufacturer><![CDATA[L'OCCITANE]]></manufacturer>
-		<name_of_store><![CDATA[L'OCCITANE]]></name_of_store>
+            <manufacturer><![CDATA[L'OCCITANE]]></manufacturer>
+	    <name_of_store><![CDATA[L'OCCITANE]]></name_of_store>
 	    <sku><![CDATA[27CP050I19]]></sku>
 	    <name><![CDATA[Precious sejas krēms]]></name>
 	    <url_to_product><![CDATA[https://lv.loccitane.com/immortelle-precious-krems,119,3,80422,1418555.htm#s=77994]]></url_to_product>
@@ -101,8 +101,8 @@
   </row>
   <row>
 		
-		 <manufacturer><![CDATA[L'OCCITANE]]></manufacturer>
-		<name_of_store><![CDATA[L'OCCITANE]]></name_of_store>
+	    <manufacturer><![CDATA[L'OCCITANE]]></manufacturer>
+	    <name_of_store><![CDATA[L'OCCITANE]]></name_of_store>
 	    <sku><![CDATA[27ER015I20]]></sku>
 	    <name><![CDATA[Reset serums acīm]]></name>
 	    <url_to_product><![CDATA[https://lv.loccitane.com/reset-nakts-serums-acim,119,3,93356,1486918.htm#s=86319]]></url_to_product>
@@ -118,8 +118,8 @@
 	    <thumbnail_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_2f98c6efb0044a43ae9b8875aef641c7.png]]></thumbnail_image>
   </row>
   <row>
-		 <manufacturer><![CDATA[L'OCCITANE]]></manufacturer>
-		<name_of_store><![CDATA[L'OCCITANE]]></name_of_store>
+	    <manufacturer><![CDATA[L'OCCITANE]]></manufacturer>
+	    <name_of_store><![CDATA[L'OCCITANE]]></name_of_store>
 	    <sku><![CDATA[11CD050A18]]></sku>
 	    <name><![CDATA[Aqua Reotier sejas krēms]]></name>
 	    <url_to_product><![CDATA[https://lv.loccitane.com/aqua-reotier-sejas-krems,119,3,92227,1220289.htm#s=92232]]></url_to_product>
@@ -135,8 +135,8 @@
 	    <thumbnail_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_2063552dde294ecca024ee1de9a00802.png]]></thumbnail_image>
   </row>
   <row>
-		 <manufacturer><![CDATA[L'OCCITANE]]></manufacturer>
-		<name_of_store><![CDATA[L'OCCITANE]]></name_of_store>
+	    <manufacturer><![CDATA[L'OCCITANE]]></manufacturer>
+	    <name_of_store><![CDATA[L'OCCITANE]]></name_of_store>
 	    <sku><![CDATA[20DO075BX20]]></sku>
 	    <name><![CDATA[Eav de Bavx dezodorants]]></name>
 	    <url_to_product><![CDATA[https://lv.loccitane.com/baux-dezodorants,119,3,58674,545851.htm#s=58810]]></url_to_product>
@@ -152,8 +152,8 @@
 	    <thumbnail_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_ca87a87c2ff049348d72e4675ebe59dc.png]]></thumbnail_image>
   </row>
   <row>
-		 <manufacturer><![CDATA[L'OCCITANE]]></manufacturer>
-		<name_of_store><![CDATA[L'OCCITANE]]></name_of_store>
+	    <manufacturer><![CDATA[L'OCCITANE]]></manufacturer>
+	    <name_of_store><![CDATA[L'OCCITANE]]></name_of_store>
 	    <sku><![CDATA[11EMP075I19]]></sku>
 	    <name><![CDATA[Attīroša sejas maska]]></name>
 	    <url_to_product><![CDATA[https://lv.loccitane.com/attirosa-maska-sejai,119,3,95726,1367380.htm#s=58734]]></url_to_product>
@@ -169,8 +169,8 @@
 	    <thumbnail_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_c1f5f9f6c4034d5d8d676d8681dae468.png]]></thumbnail_image>
    </row>
    <row>
-		<manufacturer><![CDATA[L'OCCITANE]]></manufacturer>
-		<name_of_store><![CDATA[L'OCCITANE]]></name_of_store>
+	    <manufacturer><![CDATA[L'OCCITANE]]></manufacturer>
+	    <name_of_store><![CDATA[L'OCCITANE]]></name_of_store>
 	    <sku><![CDATA[27DC050I20]]></sku>
 	    <name><![CDATA[Divine sejas krēms]]></name>
 	    <url_to_product><![CDATA[https://lv.loccitane.com/salmenes-sejas-krems,119,3,58468,545678.htm#s=58747]]></url_to_product>
@@ -184,10 +184,10 @@
 	    <base_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_9deff43c9fc4443c8690656abedddb4c.png]]></base_image>
 	    <small_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_9deff43c9fc4443c8690656abedddb4c.png]]></small_image>
 	    <thumbnail_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_9deff43c9fc4443c8690656abedddb4c.png]]></thumbnail_image>
- </row>
- <row>
-		<manufacturer><![CDATA[L'OCCITANE]]></manufacturer>
-		<name_of_store><![CDATA[L'OCCITANE]]></name_of_store>
+  </row>
+  <row>
+	    <manufacturer><![CDATA[L'OCCITANE]]></manufacturer>
+	    <name_of_store><![CDATA[L'OCCITANE]]></name_of_store>
 	    <sku><![CDATA[18EP050TL17]]></sku>
 	    <name><![CDATA[Terre de Lumiere parfimērijas ūdens]]></name>
 	    <url_to_product><![CDATA[https://lv.loccitane.com/terre-de-lumiere,119,3,80129,1026873.htm#s=86314]]></url_to_product>
@@ -201,10 +201,10 @@
 	    <base_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_750e6a59e32e4e2aae059142ac031a79.png]]></base_image>
 	    <small_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_750e6a59e32e4e2aae059142ac031a79.png]]></small_image>
 	    <thumbnail_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_750e6a59e32e4e2aae059142ac031a79.png]]></thumbnail_image>
-	 </row>
- <row>
-		<manufacturer><![CDATA[L'OCCITANE]]></manufacturer>
-		<name_of_store><![CDATA[L'OCCITANE]]></name_of_store>
+  </row>
+  <row>
+	    <manufacturer><![CDATA[L'OCCITANE]]></manufacturer>
+	    <name_of_store><![CDATA[L'OCCITANE]]></name_of_store>
 	    <sku><![CDATA[17SH300G18]]></sku>
 	    <name><![CDATA[Atjaunojošs šampūns matiem]]></name>
 	    <url_to_product><![CDATA[https://lv.loccitane.com/atjaunojos-matu-sampuns,119,3,58613,1260728.htm#s=58781]]></url_to_product>
@@ -218,10 +218,10 @@
 	    <base_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_73aa048000844719a5521ea545c77b5d.png]]></base_image>
 	    <small_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_73aa048000844719a5521ea545c77b5d.png]]></small_image>
 	    <thumbnail_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_73aa048000844719a5521ea545c77b5d.png]]></thumbnail_image>
-	  </row>
- <row>
-		<manufacturer><![CDATA[L'OCCITANE]]></manufacturer>
-		<name_of_store><![CDATA[L'OCCITANE]]></name_of_store>
+  </row>
+  <row>
+	    <manufacturer><![CDATA[L'OCCITANE]]></manufacturer>
+	    <name_of_store><![CDATA[L'OCCITANE]]></name_of_store>
 	    <sku><![CDATA[01CP200K17]]></sku>
 	    <name><![CDATA[Šī sviesta krēms barojošs ķermenim]]></name>
 	    <url_to_product><![CDATA[https://lv.loccitane.com/barojoss-kermena-krems,119,3,58647,1519467.htm#s=86311]]></url_to_product>
@@ -235,10 +235,10 @@
 	    <base_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_b4cdef53ce4f4bbf9eeb56bc0cfe9aba.png]]></base_image>
 	    <small_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_b4cdef53ce4f4bbf9eeb56bc0cfe9aba.png]]></small_image>
 	    <thumbnail_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_b4cdef53ce4f4bbf9eeb56bc0cfe9aba.png]]></thumbnail_image>
-	  </row>
- <row>
-		<manufacturer><![CDATA[L'OCCITANE]]></manufacturer>
-		<name_of_store><![CDATA[L'OCCITANE]]></name_of_store>
+  </row>
+  <row>
+	    <manufacturer><![CDATA[L'OCCITANE]]></manufacturer>
+	    <name_of_store><![CDATA[L'OCCITANE]]></name_of_store>
 	    <sku><![CDATA[01CP200K17]]></sku>
 	    <name><![CDATA[Citrusa verbenas dezodorants]]></name>
 	    <url_to_product><![CDATA[https://lv.loccitane.com/dezodorants-verbena,119,3,58655,545773.htm#s=58754]]></url_to_product>
@@ -252,10 +252,10 @@
 	    <base_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_fcfa71d1abc547808d530d5712aa6e05.png]]></base_image>
 	    <small_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_fcfa71d1abc547808d530d5712aa6e05.png]]></small_image>
 	    <thumbnail_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_fcfa71d1abc547808d530d5712aa6e05.png]]></thumbnail_image>
-	  </row>
- <row>
-		<manufacturer><![CDATA[L'OCCITANE]]></manufacturer>
-		<name_of_store><![CDATA[L'OCCITANE]]></name_of_store>
+  </row>
+  <row>
+	    <manufacturer><![CDATA[L'OCCITANE]]></manufacturer>
+	    <name_of_store><![CDATA[L'OCCITANE]]></name_of_store>
 	    <sku><![CDATA[27BY015I19]]></sku>
 	    <name><![CDATA[Precious krēms acu zonai]]></name>
 	    <url_to_product><![CDATA[https://lv.loccitane.com/precious-acu-krems,119,3,80422,1446513.htm#s=86271]]></url_to_product>
@@ -269,10 +269,10 @@
 	    <base_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_3639c8961dfb405e82d5c54936f1f07c.png]]></base_image>
 	    <small_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_3639c8961dfb405e82d5c54936f1f07c.png]]></small_image>
 	    <thumbnail_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_3639c8961dfb405e82d5c54936f1f07c.png]]></thumbnail_image>
-	  </row>
- <row>
-		<manufacturer><![CDATA[L'OCCITANE]]></manufacturer>
-		<name_of_store><![CDATA[L'OCCITANE]]></name_of_store>
+  </row>
+  <row>
+	    <manufacturer><![CDATA[L'OCCITANE]]></manufacturer>
+            <name_of_store><![CDATA[L'OCCITANE]]></name_of_store>
 	    <sku><![CDATA[15GD500VB17]]></sku>
 	    <name><![CDATA[Verbēnas dušas želeja]]></name>
 	    <url_to_product><![CDATA[https://lv.loccitane.com/verbenas-dusas-zeleja,119,3,58655,545786.htm#s=86315]]></url_to_product>
@@ -286,10 +286,10 @@
 	    <base_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_19eff4a2ac6046769866b67ca9c68f03.png]]></base_image>
 	    <small_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_19eff4a2ac6046769866b67ca9c68f03.png]]></small_image>
 	    <thumbnail_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_19eff4a2ac6046769866b67ca9c68f03.png]]></thumbnail_image>
-	  </row>
- <row>
-		<manufacturer><![CDATA[L'OCCITANE]]></manufacturer>
-		<name_of_store><![CDATA[L'OCCITANE]]></name_of_store>
+  </row>
+  <row>
+	    <manufacturer><![CDATA[L'OCCITANE]]></manufacturer>
+	    <name_of_store><![CDATA[L'OCCITANE]]></name_of_store>
 	    <sku><![CDATA[29EC200A13]]></sku>
 	    <name><![CDATA[Mandeļu pasta - skrubis]]></name>
 	    <url_to_product><![CDATA[https://lv.loccitane.com/mandeles-pasta,119,3,58591,596883.htm#s=86245]]></url_to_product>
@@ -303,10 +303,10 @@
 	    <base_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_617ca70d71ec4d7d83ec5045fa988f4f.png]]></base_image>
 	    <small_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_617ca70d71ec4d7d83ec5045fa988f4f.png]]></small_image>
 	    <thumbnail_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_617ca70d71ec4d7d83ec5045fa988f4f.png]]></thumbnail_image>
-	  </row>
- <row>
-		<manufacturer><![CDATA[L'OCCITANE]]></manufacturer>
-		<name_of_store><![CDATA[L'OCCITANE]]></name_of_store>
+  </row>
+  <row>
+	    <manufacturer><![CDATA[L'OCCITANE]]></manufacturer>
+	    <name_of_store><![CDATA[L'OCCITANE]]></name_of_store>
 	    <sku><![CDATA[27DE015I13US]]></sku>
 	    <name><![CDATA[Divine krēms acu zonai]]></name>
 	    <url_to_product><![CDATA[https://lv.loccitane.com/divine-acu-balzams,119,3,58468,545676.htm#s=86266]]></url_to_product>
@@ -320,10 +320,10 @@
 	    <base_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_5cad81c44cea40389aa482604d09aa9b.jpg]]></base_image>
 	    <small_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_5cad81c44cea40389aa482604d09aa9b.jpg]]></small_image>
 	    <thumbnail_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_5cad81c44cea40389aa482604d09aa9b.jpg]]></thumbnail_image>
-	  </row>
- <row>
-		<manufacturer><![CDATA[L'OCCITANE]]></manufacturer>
-		<name_of_store><![CDATA[L'OCCITANE]]></name_of_store>
+  </row>
+  <row>
+	    <manufacturer><![CDATA[L'OCCITANE]]></manufacturer>
+	    <name_of_store><![CDATA[L'OCCITANE]]></name_of_store>
 	    <sku><![CDATA[11ep090a20]]></sku>
 	    <name><![CDATA[ 86 Champs Ambre Amande parfimērijas ūdens]]></name>
 	    <url_to_product><![CDATA[https://lv.loccitane.com/ambre-amande-intense-parfim%C4%93rijas-%C5%ABdens,119,3,98357,1257658.htm#s=98658]]></url_to_product>
@@ -337,5 +337,5 @@
 	    <base_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_5daa33bfed484d8cbc0ccc5d2a606cf0.png]]></base_image>
 	    <small_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_5daa33bfed484d8cbc0ccc5d2a606cf0.png]]></small_image>
 	    <thumbnail_image><![CDATA[https://img.loccitane.com/ocms/img/lib/PRODUCT_FULL/OCC_5daa33bfed484d8cbc0ccc5d2a606cf0.png]]></thumbnail_image>
-	  </row>
+  </row>
 </root>
